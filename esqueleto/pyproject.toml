@@ -1,0 +1,10 @@
+[project]
+name = "german-credit-ml"
+version = "0.1.0"
+description = "Clasificación de riesgo crediticio (German Credit)"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas",
+    "scikit-learn",
+    "marimo",
+]
