@@ -64,6 +64,8 @@ uv run python train.py
 El script divide los datos (60% entrenamiento, 20% validación, 20% prueba), entrena los
 modelos, los compara en validación, selecciona el mejor y lo evalúa en prueba.
 
+Asimismo, data.py valida al cargar que existan las columnas esperadas, que no haya nulos y que credit_risk contenga solo 0 y 1.
+
 ## 6. Modelos, resultados e interpretación
 
 Ambos modelos usan un `Pipeline` con el mismo preprocesamiento, que se ajusta **solo** con
