@@ -18,6 +18,7 @@ por lo que las clases están desbalanceadas. No hay valores faltantes.
 | Abraham Dominguez Valdez | @abrahamdominguez6714-svg |
 | Cristopher Altamirano Hernandez | @crist-o |
 | Angel Said Vazquez Cisneros | @angelsaid06 |
+| Adrián Carrera Ahumada | @datadri-code |
 
 ## 3. Organización de los archivos
 
