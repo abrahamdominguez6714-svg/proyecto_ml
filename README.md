@@ -102,3 +102,12 @@ datos de validación.
   división de los datos no está estratificada.
 - Se usa una sola división de los datos; no se hizo validación cruzada.
 - No se hizo búsqueda de hiperparámetros; los valores son fijos.
+
+## 8. Tabla de contribuciones
+
+| Quién | Archivos | Rama | Lo revisa | Cuándo |
+|---|---|---|---|---|
+| *Abraham* | config.py, data.py, split.py | feature/config-data-split | Cristo | Primero |
+| *Cristo* | preprocessing.py, models.py | feature/preprocessing-models | Angel | Después del merge de Abraham |
+| *Angel* | evaluation.py, train.py | feature/evaluation-train | Abraham | Después del merge de Cristo |
+| *Adrián* | README.md | feature/docs-readme | Angel / Supervisión general | Después del merge de Angel |
